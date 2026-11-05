@@ -1,0 +1,6 @@
+{
+  "name": "Auto Rush: Pixel Grand Prix",
+  "description": "16-bit pixel-art Indian auto-rickshaw racing game with idle fleet progression through Gurugram and Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
